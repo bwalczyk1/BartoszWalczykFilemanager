@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="89.438" height="30.571" viewBox="0 0 89.438 30.571">
+  <g id="LIVE" transform="translate(2.94)">
+    <g id="Component_2_5" data-name="Component 2 – 5" transform="translate(-1.953)">
+      <g id="Title" transform="translate(0)">
+        <g id="Tabs">
+          <g id="Tabs_Text_Resting" data-name="Tabs/Text/Resting">
+            <text id="Tab_Title" data-name="Tab Title" transform="translate(25.013 25)" fill="#eee" font-size="25" font-family="Barlow-Medium, Barlow" font-weight="500"><tspan x="-25" y="0">LIVE</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="LIVE-2" data-name="LIVE" transform="translate(55.927)">
+      <g id="radio_button_checked">
+        <path id="Vector" d="M12.738,6.369a6.369,6.369,0,1,0,6.369,6.369A6.371,6.371,0,0,0,12.738,6.369Zm0-6.369A12.738,12.738,0,1,0,25.476,12.738,12.743,12.743,0,0,0,12.738,0Zm0,22.929a10.19,10.19,0,1,1,10.19-10.19A10.188,10.188,0,0,1,12.738,22.929Z" transform="translate(2.548 2.548)" fill="#84818a"/>
+      </g>
+      <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(6.369 6.369)" fill="#fc3400" stroke="#fb3400" stroke-width="1">
+        <circle cx="8.917" cy="8.917" r="8.917" stroke="none"/>
+        <circle cx="8.917" cy="8.917" r="8.417" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

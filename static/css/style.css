@@ -1,0 +1,56 @@
+body{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    margin: 0px;
+}
+#navbar{
+    display: flex;
+    align-items: center;
+    flex: 1;
+    background-color: darkblue;
+    color: white;
+}
+#navbar a{
+    margin-left: 20px;
+    color: white;
+}
+#main{
+    flex: 9;
+    display: flex;
+}
+#options{
+    flex: 2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: lightgrey;
+    color: grey;
+}
+#options *{
+    margin-top: 15px;
+}
+#content{
+    flex: 9;
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+}
+form{
+    display: flex;
+}
+th{
+    background-color: lightblue;
+}
+table{
+    border-spacing: 0px;
+}
+#content span{
+    color: grey;
+}
+#content u{
+    color: darkblue;
+}
+td{
+    text-align: center;
+}

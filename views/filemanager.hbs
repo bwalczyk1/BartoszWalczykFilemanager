@@ -1,0 +1,28 @@
+<div id="navbar">
+    <a href="../upload">UPLOAD</a>
+    <a href="../filemanager">FILEMANAGER</a>
+    <a href="../info">INFO</a>
+</div>
+<div id="main">
+    <div id="options">
+        <span>filemanager</span>
+        <a href="../reset">USUŃ DANE O PLIKACH Z TABLICY</a>
+    </div>
+    <div id="content">
+        <table>
+            <tr>
+                <th>id</th>
+                <th>obraz</th>
+                <th>name</th>
+                <th>size</th>
+                <th>type</th>
+                <th>-</th>
+                <th>-</th>
+                <th>-</th>
+            </tr>
+            {{#each files}}
+            {{> file}}
+            {{/each}}
+        </table>
+    </div>
+</div>
